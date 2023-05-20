@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add docs guide terminal images (#8819)
