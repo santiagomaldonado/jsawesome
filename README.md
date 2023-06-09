@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Fix cmake requirements for ARM64 (#8589)
