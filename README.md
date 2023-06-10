@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Update docs building code (#7601)
