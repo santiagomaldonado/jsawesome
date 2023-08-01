@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Move Explorer tests to scheduled CI (#8305)
