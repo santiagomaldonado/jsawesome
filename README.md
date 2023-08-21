@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
