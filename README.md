@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
