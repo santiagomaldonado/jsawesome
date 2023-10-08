@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Modify tuner best.pt logic to train first (#8792)
