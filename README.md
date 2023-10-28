@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update TFLite Docs images (#8605)
