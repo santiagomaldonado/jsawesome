@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+YOLOv8 INT8 TFLite Inference Example (#7317)
