@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
