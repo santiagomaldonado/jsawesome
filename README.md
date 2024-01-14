@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add yolo_bbox2segment docs reference (#7751)
