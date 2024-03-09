@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
