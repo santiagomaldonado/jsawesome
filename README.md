@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
