@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
