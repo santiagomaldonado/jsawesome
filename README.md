@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
