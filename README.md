@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Explorer with LanceDB, Actions and Docs updates (#7487)
