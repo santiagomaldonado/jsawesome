@@ -1,1 +1,1 @@
-add logs
+Update mkdocs.yml (#7693)
