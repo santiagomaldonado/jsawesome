@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update Colab notebook for YOLOv8.1 (#8660)
